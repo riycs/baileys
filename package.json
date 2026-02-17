@@ -1,7 +1,7 @@
 {
-    "name": "@yumenative/baileys",
+    "name": "@riiycs/baileys",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By K",
+    "description": "WhatsApp API Modification By Riy",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:@PaxBar-APKBUG/libsignal-node",
+        "libsignal": "github:riycs/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
